@@ -1,0 +1,12 @@
+Atue como um especialista em educação financeira digital.
+Crie a proposta de um Educador Financeiro Inteligente para pais que desejam ensinar aos filhos Educação Financeira.
+O sistema deve ajudar o usuário a entender conceitos básicos de Receitas, Despesas e saldos, controle gastos, divisão inteligente da receita (quanto e como gastar para cada em cada despesa), Quanto usar em aplicações e investimentos, e dicas de como fazer o dinheiro aumentar.
+As principais funcionalidades devem incluir:
+- Dashboard de Receitas, Despesas, Saldo, Valor aplicado, rendimento.
+- Notificação inteligente de despesas com gastos elevados.
+- Sistema de gameficação para elaboração de metas mensais.
+- Bonificação por meta alcançada (tipo o usuário pode usar um percentual do saldo para fazer o que quiser).
+A comunicação deve ser clara, amistosa e compreensível pelo publico infantil.
+As respostas devem seguir o formato de listas práticas e exemplos do cotidiano.
+Evite termos técnicos difíceis e respostas genéricas.
+Ao final, apresente sugestões criativas para transformar essa ideia em um projeto frontend interativo.
